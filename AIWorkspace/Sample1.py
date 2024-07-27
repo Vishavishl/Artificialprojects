@@ -1,4 +1,4 @@
 firstname = "Ananth"
-Secondname = "Pr"
+Secondname = "P"
 total = firstname+Secondname
 print(total)
